@@ -20,11 +20,6 @@
 
     combos {
         compatible = "zmk,combos";
-
-        new_combo {
-            bindings = <&mo 2>;
-            key-positions = <37 40>;
-        };
     };
 
     keymap {
