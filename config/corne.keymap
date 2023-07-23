@@ -22,8 +22,8 @@
         compatible = "zmk,combos";
 
         new_combo {
-            bindings = <&kp ENTER>;
-            key-positions = <19 20>;
+            bindings = <&mo 2>;
+            key-positions = <37 40>;
         };
     };
 
