@@ -25,6 +25,56 @@
             bindings = <&mo 2>;
             key-positions = <37 40>;
         };
+
+        bracketL {
+            bindings = <&kp LEFT_BRACE>;
+            key-positions = <16 19>;
+        };
+
+        bracketR {
+            bindings = <&kp RIGHT_BRACE>;
+            key-positions = <15 20>;
+        };
+
+        leftparenthsis {
+            bindings = <&kp LEFT_PARENTHESIS>;
+            key-positions = <14 21>;
+        };
+
+        rightparenthsis {
+            bindings = <&kp RIGHT_PARENTHESIS>;
+            key-positions = <13 22>;
+        };
+
+        leftbrace {
+            bindings = <&kp LEFT_BRACKET>;
+            key-positions = <4 7>;
+        };
+
+        rightbrace {
+            bindings = <&kp RIGHT_BRACKET>;
+            key-positions = <3 8>;
+        };
+
+        plus {
+            bindings = <&kp PLUS>;
+            key-positions = <19 20>;
+        };
+
+        minus {
+            bindings = <&kp MINUS>;
+            key-positions = <7 8>;
+        };
+
+        under {
+            bindings = <&kp UNDER>;
+            key-positions = <5 4>;
+        };
+
+        equal {
+            bindings = <&kp EQUAL>;
+            key-positions = <17 16>;
+        };
     };
 
     keymap {
