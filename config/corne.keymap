@@ -68,12 +68,12 @@
 
         under {
             bindings = <&kp UNDER>;
-            key-positions = <5 4>;
+            key-positions = <4 3>;
         };
 
         equal {
             bindings = <&kp EQUAL>;
-            key-positions = <17 16>;
+            key-positions = <16 15>;
         };
     };
 
