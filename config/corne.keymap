@@ -94,6 +94,7 @@
         coma {
             bindings = <&kp COMMA>;
             key-positions = <4 3>;
+            layers = <1>;
         };
     };
 
