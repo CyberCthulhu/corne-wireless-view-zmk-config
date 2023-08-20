@@ -69,6 +69,7 @@
         under {
             bindings = <&kp UNDER>;
             key-positions = <4 3>;
+            layers = <0>;
         };
 
         equal {
