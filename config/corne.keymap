@@ -90,6 +90,11 @@
             bindings = <&kp EXCL>;
             key-positions = <14 15>;
         };
+
+        coma {
+            bindings = <&kp COMMA>;
+            key-positions = <4 3>;
+        };
     };
 
     keymap {
